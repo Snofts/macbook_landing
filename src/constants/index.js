@@ -4,5 +4,5 @@ export const navLinks = [
                     {label: 'Iphone', link: '/mac'},
                     {label: 'Watch', link: '/mac'},
                     {label: 'Vision', link: '/mac'},
-                    {label: 'Aitpods', link: '/mac'},
+                    {label: 'Airpods', link: '/mac'},
                 ]
