@@ -1,5 +1,8 @@
 # MacBook Product Landing Page
 
+![Homepage Preview](./screenshot/machome.png)
+
+
 A modern, interactive **MacBook-style product landing page** built with **Tailwind CSS v4**, **GSAP**, and **Three.js**, focused on smooth animations, immersive 3D visuals, and a premium Apple-inspired user experience.
 
 🔗 **Live Demo:**  
